@@ -229,7 +229,7 @@
 229	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	words@nrk1972f#@nrk1972f#2055.612#2055.884
 230	ничего	ничто	PRON	_	Case=Gen	_	_	_	words@nrk1972f#@nrk1972f#2055.884#2056.156
 231	/	/	PUNCT	_	_	_	_	_	words@nrk1972f#@nrk1972f#2056.156#2056.428
-232	ром	ром	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@nrk1972f#@nrk1972f#2056.428#2056.7	
+232	ром	ром	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@nrk1972f#@nrk1972f#2056.428#2056.7
 233	роми	роми	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@nrk1972f#@nrk1972f#2056.7#2056.972
 234	ромщик	ромщик	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@nrk1972f#@nrk1972f#2056.972#2057.244
 235	/	/	PUNCT	_	_	_	_	_	words@nrk1972f#@nrk1972f#2057.244#2057.516
@@ -826,7 +826,7 @@
 826	/	/	PUNCT	_	_	_	_	_	words@nrk1972f#@nrk1972f#2337.007#2337.433
 827	послушанием	послушание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	words@nrk1972f#@nrk1972f#2337.433#2337.859
 828	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@nrk1972f#@nrk1972f#2337.859#2338.285
-829	должна	должный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	_	_	_	words@nrk1972f#@nrk1972f#2338.285#2338.711	
+829	должна	должный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	_	_	_	words@nrk1972f#@nrk1972f#2338.285#2338.711
 830	прийти	прийти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@nrk1972f#@nrk1972f#2338.711#2339.137
 831	/	/	PUNCT	_	_	_	_	_	words@nrk1972f#@nrk1972f#2339.137#2339.563
 832	до	до	ADP	_	_	_	_	_	words@nrk1972f#@nrk1972f#2339.563#2339.989
